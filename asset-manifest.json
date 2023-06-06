@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/videoplayapp/static/css/main.31d6cfe0.css",
-    "main.js": "/videoplayapp/static/js/main.51a431f1.js",
-    "index.html": "/videoplayapp/index.html",
-    "main.51a431f1.js.map": "/videoplayapp/static/js/main.51a431f1.js.map"
+    "main.css": "/static/css/main.31d6cfe0.css",
+    "main.js": "/static/js/main.51a431f1.js",
+    "index.html": "/index.html",
+    "main.51a431f1.js.map": "/static/js/main.51a431f1.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
